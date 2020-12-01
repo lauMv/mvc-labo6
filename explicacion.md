@@ -1,0 +1,2 @@
+Se utilizo el modelo vista controlador para la elaboracion de una agenda
+telefonica, presentando la vista al usuario, el modelo como contacto y el controlador en la agenda utilizando agenda.db como base de datos local.
